@@ -20,6 +20,8 @@ This fork works great on mobile devices. A minified CSS version is also added to
 
 6. Do not clone the blog folder from github. It will be set up automatically. 
 
+7. Why .shtml? To allow for a little more flexibility. You can now more easily edit e.g. the menu and all stuff that you want included between the <head></head> tags. 
+
 [Video Showcase from Lukes' LB](https://www.youtube.com/watch?v=S1WQlr42xDM)
 
 
