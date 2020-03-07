@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blogindex</title>
+<!--#include file="header.html" -->
+</head>
+<body style="max-width:1100px; margin-left:auto; margin-right:auto">
+<!--#include file="navbar.html" -->
+
+<section>
+<h1 class="center-heading" style="font-size:2.5rem">Blog Index</h1>
+<!-- LB -->
+
+</section>
+
+</body>
+</html>
